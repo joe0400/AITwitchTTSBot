@@ -1,0 +1,11 @@
+# OpenAI Keys
+
+## FIRST OF ALL, MOST IMPORTANT: DO NOT, I REPEAT, DO NOT SHARE YOUR API KEYS.
+
+Head to :https://beta.openai.com/signup to get an account.
+After that is finished, head to: https://beta.openai.com/account/api-keys, and it should bring up a page for API Keys
+click generate secret, then copy it, and put it in the "open-ai secret" field on the GUI
+
+# Twitch API Key
+
+// TODO: Finish this part of the explanation, in a more readable way.
